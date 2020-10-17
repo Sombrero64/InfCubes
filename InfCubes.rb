@@ -5,6 +5,6 @@ lines = [
 
 while true do
     for i in lines do
-        puts is
+        puts i
     end
 end
